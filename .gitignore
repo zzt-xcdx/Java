@@ -1,11 +1,24 @@
-﻿# 编译输出
-*.class
-out/
-target/
+﻿# SSH 密钥（重要！）
+*.pem
+*.key
+id_rsa
+id_rsa.pub
+kl
+kl.pub
 
-# IDEA 项目文件
+# IDEA 配置
 .idea/
 *.iml
 
-# 日志
-*.log
+# 编译输出
+out/
+*.class
+
+# 临时文件
+*.tmp
+*.bak
+*~
+
+# 操作系统
+.DS_Store
+Thumbs.db
