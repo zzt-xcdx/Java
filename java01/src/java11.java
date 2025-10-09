@@ -9,7 +9,7 @@ public class java11 {
 
         for (int x = 0; x < 10; x++) {
             if (x==3){
-                break;
+                continue;
             }
             System.out.println(x);
         }
