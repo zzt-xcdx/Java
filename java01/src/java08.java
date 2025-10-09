@@ -1,4 +1,4 @@
-public class Java08 {
+public class java08 {
     public static void main(String[] args) {
 
         //todo for循环

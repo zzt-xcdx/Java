@@ -1,4 +1,4 @@
-public class Java09 {
+public class java09 {
     public static void main(String[] args) {
 
 

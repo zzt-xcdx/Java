@@ -1,4 +1,4 @@
-public class Java01 {
+public class java01 {
     public static void main(String[] args) {
 
         // TODO (1)java语言八种数据类型
